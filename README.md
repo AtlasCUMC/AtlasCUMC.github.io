@@ -1,1 +1,1 @@
-# AtlasCUMC.github.io
+# atlascumc.github.io
